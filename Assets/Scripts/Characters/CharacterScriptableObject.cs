@@ -2,17 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterScriptableObject : MonoBehaviour
+[CreateAssetMenu(menuName = "Scriptable Object", fileName = "Scriptable Object / Characters")]
+public class CharacterScriptableObject : ScriptableObject
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public int id;
 
-    // Update is called once per frame
-    void Update()
+    public Sprite characterSprite;
+    public CharacterRank characterRank;
+    
+    public enum CharacterRank
     {
-        
+        E = 0,
+        D = 1,
+        C = 2,
+        B = 3,
+        A = 4,
+        X = 5,
+        S = 6
     }
 }
