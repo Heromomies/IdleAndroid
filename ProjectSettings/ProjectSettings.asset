@@ -267,7 +267,99 @@ PlayerSettings:
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 100
   m_BuildTargetIcons: []
-  m_BuildTargetPlatformIcons: []
+  m_BuildTargetPlatformIcons:
+  - m_BuildTarget: Android
+    m_Icons:
+    - m_Textures: []
+      m_Width: 432
+      m_Height: 432
+      m_Kind: 2
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 324
+      m_Height: 324
+      m_Kind: 2
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 216
+      m_Height: 216
+      m_Kind: 2
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 162
+      m_Height: 162
+      m_Kind: 2
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 108
+      m_Height: 108
+      m_Kind: 2
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 81
+      m_Height: 81
+      m_Kind: 2
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 192
+      m_Height: 192
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 144
+      m_Height: 144
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 96
+      m_Height: 96
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 72
+      m_Height: 72
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 48
+      m_Height: 48
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 36
+      m_Height: 36
+      m_Kind: 0
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 192
+      m_Height: 192
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 144
+      m_Height: 144
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 96
+      m_Height: 96
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 72
+      m_Height: 72
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 48
+      m_Height: 48
+      m_Kind: 1
+      m_SubKind: 
+    - m_Textures: []
+      m_Width: 36
+      m_Height: 36
+      m_Kind: 1
+      m_SubKind: 
   m_BuildTargetBatching:
   - m_BuildTarget: Standalone
     m_StaticBatching: 1
@@ -601,21 +693,21 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    1: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    4: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    7: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    13: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    14: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    19: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    21: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    25: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    27: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    28: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    29: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    30: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
+    1: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    4: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    7: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    13: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    14: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    19: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    21: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    25: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    27: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    28: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    29: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    30: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
     31: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    32: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
-    33: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP
+    32: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
+    33: EASY_MOBILE;EASY_MOBILE_PRO;EM_URP;TextMeshPro
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
